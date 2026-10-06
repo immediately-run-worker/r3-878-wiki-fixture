@@ -1,4 +1,4 @@
 {
-  "opensWith": { "app": "github:immediately-run/grove", "version": "1.0" },
+  "opensWith": { "app": "github:immediately-run-worker/grove", "version": "1.0" },
   "kind": "wiki"
 }
